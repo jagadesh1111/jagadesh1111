@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif)]
+[![MasterHead](https://i.pinimg.com/originals/31/53/2d/31532d7d378053de3b8bf23c6e7bfae3.gif)
 <h1 align="center">Hi 👋, I'm Jagadeshwar Reddy.Chilakamarri</h1>
 <h3 align="center">An upcoming self-esteem engineering graduate majoring in Data Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.activeblogs.com/wp-content/uploads/2021/08/1628529290971.gif">
