@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jagadeshwar-reddy-chilakamarri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagadeshwar-reddy-chilakamarri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jagadeshwar-reddy-chilakamarri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagadeshwar-reddy-chilakamarri-529783216" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/jagadeshwar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jagadeshwar" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jagadishwar_chi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jagadishwar_chi1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jagadeshwarreddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jagadeshwarreddy" height="30" width="40" /></a>
