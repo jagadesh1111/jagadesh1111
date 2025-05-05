@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.activeblogs.com/wp-content/uploads/2021/08/1628529290971.gif">
 
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently onto **Site Reliability Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jagadesh1111](https://github.com/jagadesh1111)
 
