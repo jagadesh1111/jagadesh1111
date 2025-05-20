@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jagadishwar.chilkamarri@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fPuF0pA_JJxaOj5dC0V5wWmT4YCZV5HS/view?usp=sharing]([https://drive.google.com/file/d/1fPuF0pA_JJxaOj5dC0V5wWmT4YCZV5HS/view?usp=sharing](https://drive.google.com/file/d/1cyxe7825WgxfQtbjyjGe3RnJB_EFFQhd/view?usp=sharing))
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1fPuF0pA_JJxaOj5dC0V5wWmT4YCZV5HS/view?usp=sharing](https://drive.google.com/file/d/1cyxe7825WgxfQtbjyjGe3RnJB_EFFQhd/view?usp=sharing)]([https://drive.google.com/file/d/1fPuF0pA_JJxaOj5dC0V5wWmT4YCZV5HS/view?usp=sharing](https://drive.google.com/file/d/1cyxe7825WgxfQtbjyjGe3RnJB_EFFQhd/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
